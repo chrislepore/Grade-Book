@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576710119 source:c:\users\chris\documents\engineering stuff\cc++\c++ final\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<limits>
+	<ctime>
+	<windows.h>
+
